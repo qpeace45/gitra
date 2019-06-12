@@ -1,2 +1,2 @@
-public static final string TANAKADOTTOCOM = "TANAKA.com";
+public static final string TANAKA_DOTTOCOM = "TANAKA.com";
 System.debug(TANAKADOTTOCOM);
