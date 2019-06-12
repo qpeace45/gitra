@@ -1,1 +1,1 @@
-system.debug("TANAKA.com");
+System.debug("TANAKA.com");
